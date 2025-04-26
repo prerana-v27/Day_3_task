@@ -1,1 +1,3 @@
-# Day_3_task
+##ELEVATE LABS: Day_3_task
+
+In this project, I worked on data cleaning, analysis, and preparation using SQL Server Management Studio (SSMS) on the "Sample - Superstore" dataset. I handled missing values, formatted dates to a consistent [dd-MM-yyyy] structure, and created indexes to optimize query performance. Using SQL queries with aggregation, grouping, joins, and filtering, I extracted key business insights such as sales trends, profit distribution, and customer behavior patterns. It was an exciting and insightful experience, as I explored how structured querying can uncover valuable information hidden within raw data. The final cleaned dataset was exported to support dashboard creation and effective visualization of critical business metrics.
